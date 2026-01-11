@@ -1,0 +1,8 @@
+{
+  "name": "Veronika - Holographic Assistant",
+  "description": "A sophisticated holographic AI voice assistant inspired by Age of Ultron, providing emotional support and high-tech interaction.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
